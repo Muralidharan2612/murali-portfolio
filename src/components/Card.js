@@ -1,5 +1,5 @@
 import React from 'react';
-import profile from '../images/main-image.png';
+import profile from '../images/main-image.jpg';
 import { FaGithub, FaLinkedin, FaTwitter, FaEnvelope } from 'react-icons/fa';
 
 function Card() {
